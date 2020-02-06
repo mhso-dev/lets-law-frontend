@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/lets-law-demo/static/css/main.4e2b52a1.chunk.css",
-    "main.js": "/lets-law-demo/static/js/main.6fdfe136.chunk.js",
-    "main.js.map": "/lets-law-demo/static/js/main.6fdfe136.chunk.js.map",
-    "runtime-main.js": "/lets-law-demo/static/js/runtime-main.d8a28ce4.js",
-    "runtime-main.js.map": "/lets-law-demo/static/js/runtime-main.d8a28ce4.js.map",
-    "static/css/2.600dfb7d.chunk.css": "/lets-law-demo/static/css/2.600dfb7d.chunk.css",
-    "static/js/2.3fd9b79a.chunk.js": "/lets-law-demo/static/js/2.3fd9b79a.chunk.js",
-    "static/js/2.3fd9b79a.chunk.js.map": "/lets-law-demo/static/js/2.3fd9b79a.chunk.js.map",
-    "index.html": "/lets-law-demo/index.html",
-    "precache-manifest.8feaadc42e7602e77c98fb8711467af9.js": "/lets-law-demo/precache-manifest.8feaadc42e7602e77c98fb8711467af9.js",
-    "service-worker.js": "/lets-law-demo/service-worker.js",
-    "static/css/2.600dfb7d.chunk.css.map": "/lets-law-demo/static/css/2.600dfb7d.chunk.css.map",
-    "static/css/main.4e2b52a1.chunk.css.map": "/lets-law-demo/static/css/main.4e2b52a1.chunk.css.map"
+    "main.css": "/lets-law-frontend/static/css/main.4e2b52a1.chunk.css",
+    "main.js": "/lets-law-frontend/static/js/main.b03fecd9.chunk.js",
+    "main.js.map": "/lets-law-frontend/static/js/main.b03fecd9.chunk.js.map",
+    "runtime-main.js": "/lets-law-frontend/static/js/runtime-main.fa5d77b4.js",
+    "runtime-main.js.map": "/lets-law-frontend/static/js/runtime-main.fa5d77b4.js.map",
+    "static/css/2.600dfb7d.chunk.css": "/lets-law-frontend/static/css/2.600dfb7d.chunk.css",
+    "static/js/2.3fd9b79a.chunk.js": "/lets-law-frontend/static/js/2.3fd9b79a.chunk.js",
+    "static/js/2.3fd9b79a.chunk.js.map": "/lets-law-frontend/static/js/2.3fd9b79a.chunk.js.map",
+    "index.html": "/lets-law-frontend/index.html",
+    "precache-manifest.8c8e19ad7d953a6dd90fc52f6bd6dee2.js": "/lets-law-frontend/precache-manifest.8c8e19ad7d953a6dd90fc52f6bd6dee2.js",
+    "service-worker.js": "/lets-law-frontend/service-worker.js",
+    "static/css/2.600dfb7d.chunk.css.map": "/lets-law-frontend/static/css/2.600dfb7d.chunk.css.map",
+    "static/css/main.4e2b52a1.chunk.css.map": "/lets-law-frontend/static/css/main.4e2b52a1.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8a28ce4.js",
+    "static/js/runtime-main.fa5d77b4.js",
     "static/css/2.600dfb7d.chunk.css",
     "static/js/2.3fd9b79a.chunk.js",
     "static/css/main.4e2b52a1.chunk.css",
-    "static/js/main.6fdfe136.chunk.js"
+    "static/js/main.b03fecd9.chunk.js"
   ]
 }
